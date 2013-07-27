@@ -1,0 +1,16 @@
+{
+  "name": "ember-progress",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "kelonye/ember": "*",
+    "component/progress": "*"
+  },
+  "main": "lib/index.js",
+  "scripts": [
+    "lib/index.js"
+  ],
+  "styles": [
+    "lib/style.css"
+  ]
+}
