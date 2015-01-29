@@ -1,9 +1,9 @@
 {
   "name": "ember-progress",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "dependencies": {
-    "kelonye/ember": "1.7.0",
+    "kelonye/ember": "1.9.1",
     "component/progress": "0.0.4"
   },
   "main": "lib/index.js",
