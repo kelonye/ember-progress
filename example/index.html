@@ -3,16 +3,6 @@
   <head>
   </head>
   <body>
-    <script src='../public/public.js'></script>
-    <script type='text/javascript'>
-      var mixin = require('ember-progress');
-      var view = Em.View.createWithMixins(mixin);
-      view.appendTo('body');
-      var n = 0;
-      var id = setInterval(function(){
-        if (n == 100) clearInterval(id);
-        view.set('progress', n++);
-      }, 50);
-    </script>
+    <script src='public/public.js'></script>
   </body>
 </html>

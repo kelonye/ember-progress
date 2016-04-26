@@ -1,0 +1,16 @@
+{
+  "name": "example",
+  "local": [
+    "ember-progress"
+  ],
+  "paths": [
+    ".",
+    "../../.."
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "jhbs": [
+    "template"
+  ]
+}
